@@ -1,0 +1,366 @@
+
+@media(max-width: 1910px){
+    .header_area .main-menu .navbar{
+        padding: 18rem;
+    }
+}
+
+@media(max-width: 1395px){
+    .header_area .main-menu .navbar .navbar-brand{
+        padding: 0 14rem 0 1rem;
+    }
+} 
+
+@media(max-width: 1224px){
+    /*sect1 start*/
+
+    .sect1 .row1 .text-box h1{
+        font-size: 4rem;
+    }
+
+    .main-aqua .sect1 .text-box .eyebrow{
+        margin: -20px 0px;
+    }
+
+    .main-aqua .sect1 .arrow-icon{
+        padding: 15rem 1rem;
+        width: 10%;
+    }
+
+    .main-aqua .sect1 .arrow-icon img{
+        width: 5rem;
+    }
+
+    .main-aqua .sect1 .arrow-icon .img{
+        margin-left: -1rem;
+    }
+    
+    .main-aqua .sect1 .arrow-icon .image{
+        margin-left: -1rem;
+    }
+
+    .main-aqua .sect1{
+        background-image: linear-gradient(rgba(30, 21, 4, 0),#04091e00), linear-gradient(rgba(30, 21, 4, 0.49),#04091e73), 
+            url(../img/Group.png),
+            url(../img/figma1.png);
+        background-position: bottom right, center;
+        background-size: 10rem, cover;
+    }
+
+    /*sect1 end*/
+
+    /*sect2 start*/
+
+    /*sect2 sub-sect2 start*/
+
+    .main-aqua .sect2 .sub-sect2 .image1{
+        width: 20rem;
+        height: 30rem;
+        margin: auto 10rem;
+    }
+    
+    .main-aqua .sect2 .sub-sect2 .image2{
+        width: 25rem;
+        height: 15rem;
+        border-radius: 1rem;
+        margin-left: -42rem;
+        margin-top: 18rem;
+    }
+
+    /*sect2 sub-sect2 end*/
+
+    /*sect2 end*/
+}
+
+@media(max-width: 1080px){
+    /*sect1 start*/
+
+    .sect1 .row1 .text-box h1{
+        font-size: 4rem;
+    }
+
+    .main-aqua .sect1 .text-box .eyebrow{
+        margin: -20px 0px;
+    }
+
+    .main-aqua .sect1 .arrow-icon{
+        padding: 15rem 1rem;
+        width: 10%;
+    }
+
+    .main-aqua .sect1 .arrow-icon img{
+        width: 5rem;
+    }
+
+    .main-aqua .sect1 .arrow-icon .img{
+        margin-left: -1rem;
+    }
+    
+    .main-aqua .sect1 .arrow-icon .image{
+        margin-left: -1rem;
+    }
+
+    .main-aqua .sect1{
+        background-image: linear-gradient(rgba(30, 21, 4, 0),#04091e00), linear-gradient(rgba(30, 21, 4, 0.49),#04091e73), 
+            url(../img/Group.png),
+            url(../img/figma1.png);
+        background-position: bottom right, center;
+        background-size: 10rem, cover;
+    }
+
+    /*sect1 end*/
+
+    /*sect2 start*/
+
+    /*sect2 sub-sect2 start*/
+
+    .main-aqua .sect2 .sub-sect2 .image1{
+        width: 20rem;
+        height: 30rem;
+        margin: auto 10rem;
+    }
+    
+    .main-aqua .sect2 .sub-sect2 .image2{
+        width: 25rem;
+        height: 15rem;
+        border-radius: 1rem;
+        margin-left: -42rem;
+        margin-top: 18rem;
+    }
+
+    /*sect2 sub-sect2 end*/
+
+    /*sect2 end*/
+}
+
+@media(max-width: 1024px){
+    /*navbar start*/
+    .header_area .main-menu .navbar .navbar-brand{
+        padding: 0 14rem 0 1rem;
+    }
+
+    /*navbar end*/
+
+    /*sect1 start*/
+
+    .sect1 .row1 .text-box h1{
+        font-size: 4rem;
+    }
+
+    .main-aqua .sect1 .text-box .eyebrow{
+        margin: -5px 0px;
+    }
+
+    .main-aqua .sect1 .arrow-icon{
+        padding: 15rem 1rem;
+        width: 10%;
+    }
+
+    .main-aqua .sect1 .arrow-icon img{
+        width: 5rem;
+    }
+
+    .main-aqua .sect1 .arrow-icon .img{
+        margin-left: -1rem;
+    }
+    
+    .main-aqua .sect1 .arrow-icon .image{
+        margin-left: -1rem;
+    }
+
+    .main-aqua .sect1{
+        background-image: linear-gradient(rgba(30, 21, 4, 0),#04091e00), linear-gradient(rgba(30, 21, 4, 0.49),#04091e73), 
+            url(../img/Group.png),
+            url(../img/figma1.png);
+        background-position: bottom right, center;
+        background-size: 10rem, cover;
+    }
+
+    /*sect1 end*/
+
+    /*sect2 start*/
+
+    /*sect2 sub-sect2 start*/
+
+    .main-aqua .sect2 .sub-sect2 .image1{
+        width: 20rem;
+        height: 30rem;
+        margin: auto 10rem;
+    }
+    
+    .main-aqua .sect2 .sub-sect2 .image2{
+        width: 25rem;
+        height: 15rem;
+        border-radius: 1rem;
+        margin-left: -42rem;
+        margin-top: 18rem;
+    }
+
+    /*sect2 sub-sect2 end*/
+
+    /*sect2 end*/
+
+
+}
+
+@media(max-width: 770px){
+    /*sect1 start*/
+    .main-aqua .sect1 .text-box .eyebrow{
+        margin: -10px 0px;
+    }
+
+    .main-aqua .sect1 .arrow-icon img{
+        width: 3.5rem;
+    }
+    /*sect1 end*/
+
+
+    /*sect2 start*/
+
+    /*sect2 sub-sect2 start*/
+
+    .main-aqua .sect2 .sub-sect2 .image1{
+        width: 20rem;
+        height: 30rem;
+        margin: auto -1rem;
+    }
+    
+    .main-aqua .sect2 .sub-sect2 .image2{
+        width: 15rem;
+        height: 10rem;
+        border-radius: 1rem;
+        margin-left: -22rem;
+        margin-top: 22rem;
+    }
+
+    /*sect2 sub-sect2 end*/
+
+    /*sect2 sub-sect2b start*/
+
+    .main-aqua .sect2 .sub-sect2b .text-box .eyebrow{
+        margin: 10px 0px;
+        font: normal bold 15px/ 20px var(--static2);
+    }
+
+    .main-aqua .sect2 .sub-sect2b .text-box h1{
+        font-size: 1.9rem;
+    } 
+
+    .main-aqua .sect2 .sub-sect2b .text-box h2{
+        font-size: 1.6rem;
+    }
+
+    .main-aqua .sect2 .sub-sect2b .text-box p{
+        margin: 10px 0 5px;
+    }
+
+    .main-aqua .sect2 .sub-sect2b .text-box .list .list1{
+        width: 50%;
+        border: solid #292929;
+    }
+
+    .main-aqua .sect2 .sub-sect2b .text-box .list .list1 li{
+        font-size: .8rem;
+    }
+
+    .php .pics{
+        flex-direction: column;
+        width: 30%;
+        margin: 0rem 1.5rem;
+    }
+
+    /*sect2 sub-sect2b end*/
+
+    /*sect2 end*/
+}
+
+
+@media(max-width: 430px){
+
+    /*navbar start*/
+
+    .main-aqua .header_area .main-menu .navbar,
+    .main-aqua .header_area .main-menu .navbar .navbar-brand{
+        padding: 5%;
+        margin: 0%;
+    }
+
+    /*navbar end*/
+
+    /*start of sect1*/
+
+    .main-aqua .sect1 .row1{
+        width: 100%;
+        margin: 0rem auto;
+    }
+
+    .main-aqua .sect1 .text-box h1{
+        font-size: 3rem;
+    }
+
+    .main-aqua .sect1 .text-box .eyebrow{
+        margin: .1rem;
+        font-size: .7rem;
+    }
+
+    .main-aqua .sect1 .arrow-icon{
+        padding: 15rem 1rem;
+        width: 10%;
+    }
+
+    .main-aqua .sect1 .arrow-icon img{
+        width: 2rem;
+    }
+
+    .main-aqua .sect1 .arrow-icon .img{
+        margin-left: -1rem;
+    }
+    
+    .main-aqua .sect1 .arrow-icon .image{
+        margin-left: -1rem;
+    }
+
+    .main-aqua .sect1{
+        background-image: linear-gradient(rgba(30, 21, 4, 0),#04091e00), linear-gradient(rgba(30, 21, 4, 0.49),#04091e73), 
+            url(../img/Group.png),
+            url(../img/figma1.png);
+        background-position: bottom right, center;
+        background-size: 10rem, cover;
+    }
+
+    p{
+        font-size: 10px;
+    }
+    /*end of sect1*/
+
+
+    /*start of sect2*/
+
+    .main-aqua .sect2{
+        flex-direction: column;
+    }
+
+    .main-aqua .sect2 .sub-sect2 .image1{
+        margin-left: -2rem;
+        width: 15rem;
+    }
+
+    .main-aqua .sect2 .sub-sect2 .image2{
+        width: 25rem;
+        height: 10rem;
+        border-radius: 1rem;
+        margin-left: -16rem;
+        margin-top: 16rem;
+    }
+
+    .main-aqua .sub-sect2b{
+        margin-top: 3rem;
+        margin-left: -5rem;
+        width: 39%;
+    }
+
+    /*end of sect2*/
+
+
+
+}

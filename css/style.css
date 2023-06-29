@@ -1,0 +1,278 @@
+/*import fonts from fonts.css file*/
+@import url(fonts.css);
+
+
+/* CSS Variables */
+@import url(partials/variables.css);
+
+/* Import global styling */
+@import url(partials/global.css);
+
+
+
+
+/*Start Header or Navbar area*/
+
+.header_area{
+    background-color: #ffffff;
+}
+
+.header_area .main-menu .navbar .navbar-brand{
+    padding: 0 28rem 0 12rem;
+}
+
+.main-aqua .header_area .main-menu .navbar{
+    padding: 1.2rem 1rem;
+}
+
+.main-aqua .header_area .main-menu .nav-item .nav-link{
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 5px 20px;
+    color: var(--title-color);
+}
+
+.main-aqua .header_area .main-menu .navbar-nav a:hover{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.main-aqua .header_area .main-menu .navbar-nav{
+    margin: 0rem -5rem;
+}
+
+.main-aqua .header_area .main-menu .navbar-nav .type{
+    margin: 0rem 4rem;
+}
+
+/*End Header or Navbar Area*/
+
+
+
+
+/*Start Sect1 Section*/
+
+
+.main-aqua .sect1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(30, 21, 4, 0),#04091e00), linear-gradient(rgba(30, 21, 4, 0.49),#04091e73), 
+        url(../img/Group.png),
+        url(../img/figma1.png);
+    background-position: right, center;
+	background-size: 30rem, cover;
+    background-repeat: no-repeat, no-repeat;
+	position: relative;
+}
+
+.main-aqua .sect1 .row1{
+    display: flex;
+    width: 120%;
+    margin: 4rem 3rem;
+    boder: solid red;
+}
+
+.main-aqua .sect1 .text-box{
+    margin: 7rem 0rem;
+    width: 80%;
+    boder: solid red;
+}
+
+.main-aqua .sect1 .arrow-icon{
+    padding: 15rem 2rem;
+    width: 10%;
+    boder: solid red;
+}
+
+.main-aqua .sect1 .arrow-icon img{
+    width: 4rem;
+}
+
+.main-aqua .sect1 .arrow-icon .img{
+    margin-left: 1rem;
+}
+
+.main-aqua .sect1 .text-box h1{
+    font-family: var(--static1);
+    font-size: 6rem;
+    color: #ffffff;
+    boder: solid red;
+}
+
+.main-aqua .sect1 .text-box .eyebrow{
+    margin: 10px 0px;
+    font-weight: 400;
+    font: normal bold 20px/ 20px var(--static2);
+    color: #ffffff;
+    font-size: 1.5rem;
+    boder: solid rgb(255, 255, 255);
+}
+
+p{
+    margin: 10px 0 40px;
+	font-size: 16px;
+    font: bold 15px var(--static2);
+    font-weight: 500;
+	color: #ffffff;
+    boder: solid red;
+}
+
+.main-aqua .sect1 .text-box .type{
+    width: 7rem;
+}
+.sect1-image{
+    width: 30%;
+    height: 60vh;
+    position: absolute;
+    boder: solid greenyellow;
+
+}
+
+
+/*End Sect1 Section*/
+
+
+/*Start Sect2 Section*/
+
+/*sub-sect2 start*/
+
+.main-aqua .sect2{
+    background: #F2F2F2;
+    padding: 5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 31%;
+}
+
+.main-aqua .sub-sect2{
+    boder: solid red;
+    display: flex;
+    width: 40%;
+}
+
+.main-aqua .sect2 .sub-sect2 .image1{
+    width: 30rem;
+    boder: solid red;
+    border-radius: 1rem;
+    margin-left: 10rem;
+}
+
+.main-aqua .sect2 .sub-sect2 .image2{
+    width: 25rem;
+    height: 15rem;
+    boder: solid red;
+    border-radius: 1rem;
+    margin-left: -42rem;
+    margin-top: 18rem;
+}
+
+/*sub-sect2 end*/
+
+/*sub-sect2b start*/
+
+.main-aqua .sub-sect2b{
+    boder: solid red;
+    display: flex;
+    width: 40%
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .eyebrow{
+    margin: 10px 0px;
+    letter-spacing: 4px;
+    font-weight: 500;
+    color: #292929;
+    font-size: 1.3rem;
+    font: normal bold 20px/ 20px var(--static2);
+    boder: solid rgb(255, 255, 255);
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box h1{
+    font-size: 3.3rem;
+    font-family: var(--static1);
+    boder: solid black;
+} 
+
+.main-aqua .sect2 .sub-sect2b .text-box h2{
+    font-size: 2.5rem;
+    font-family: var(--static);
+    boder: solid black;
+
+} 
+
+.main-aqua .sect2 .sub-sect2b .text-box p{
+	margin: 10px 0 40px;    
+    font-weight: 500;
+	color: #000000;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list{
+    display: flex;
+    boder: solid #292929;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list .list1{
+    width: 50%;
+    boder: solid #292929;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list .list1{
+    boder: solid #292929;
+    list-style: none;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list .list1 li{
+    boder: solid #292929;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list .list1 div{
+    boder: solid #292929;
+    list-style: none;
+    display: flex;
+}
+
+.main-aqua .sect2 .sub-sect2b .text-box .list .list1 div i{
+    color: #1a5f65;
+    padding: 8px;
+}
+
+.php{
+    display: flex;
+    margin: 2rem 0rem;
+    boder: solid black;
+}
+
+.php .pics{
+    display: flex;
+    boder: solid pink;
+    width: 30%;
+    margin: 0rem 1.5rem;
+}
+
+.dipi-s{
+    margin-left: -1rem;
+    border-radius: 14rem;
+    height: 4rem;
+    width: 4rem;
+    boder: solid blue;
+}
+
+.php .stuff{
+    margin-right: 3rem;
+}
+
+.php .type{
+    margin: .5rem 1rem;
+}
+
+.php span{
+    font: normal bold 20px/ 20px var(--static2);
+}
+
+/*sub-sect2 end*/
+
+
+/*End Sect2 Section*/
